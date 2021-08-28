@@ -1,0 +1,5 @@
+id,parking_type,listing_name,summary,address,price,active,is_gated,user_id,created_at,updated_at,latitude,longitude,instant,is_charged,is_camera,is_covered,parking_size
+1,Drive way,Drive way on Mission,"Lorem ipsum dolor sit amet, consectetur","571 Valencia Street, San Francisco, CA, USA",3,True,False,3,2020-09-11 05:33:06.584461,2021-02-17 20:24:30.589202,37.76382735,-122.421502372784,1,True,True,False,SUV
+2,Parking lot,Driveway Parking on Northside Berkeley,My driveway is open for parking.,"Berkeley, CA, USA",2,True,FALSE,4,2020-09-14 08:51:01.326529,2020-10-09 04:40:17.324804,37.8708393,-122.2728639,1,FALSE,FALSE,FALSE,SUV
+9,Parking Lot,A parking space in downtown SF,We have a great parking space in downtown SF ready to book! ,"San Francisco, CA, USA",10,True,FALSE,4,2021-02-17 02:22:34.702085,2021-02-17 02:25:42.550182,37.7790262,-122.4199061,1,FALSE,FALSE,FALSE,Sedan
+10,Parking lot,test,new parking,"9999 San Leandro Street, Oakland, CA, USA",2,FALSE,FALSE,4,2021-02-25 18:46:56.184833,2021-03-24 01:37:53.055701,37.7513276,-122.1942994,1,FALSE,FALSE,FALSE,Sedan
